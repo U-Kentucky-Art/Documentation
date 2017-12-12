@@ -2,5 +2,5 @@
 title: Selected Documentation from Past Classes
 ---
 
-<h2> Fall 2017 </h2>
-<h3> A-S 345 Intro to Web</h3>
+##Fall 2017
+###A-S 345 Intro to Web
