@@ -24,13 +24,13 @@ title: University of Kentucky Art - Web Design - Selected Documentation
 + [Mobile Prototype](https://marvelapp.com/282f61a/screen/35455449)
 
 + [Desktop Prototype](https://marvelapp.com/af1b8ce/screen/34886496)
-Mobile Prototype](https://marvelapp.com/460hg91/screen/34901770)
+[Mobile Prototype](https://marvelapp.com/460hg91/screen/34901770)
 
 + [Desktop Prototype](https://marvelapp.com/582314i)
-Mobile Prototype](https://marvelapp.com/28bejhg)
+[Mobile Prototype](https://marvelapp.com/28bejhg)
 
 + [Desktop Prototype](https://marvelapp.com/aicfg8e)
-Mobile Prototype](https://marvelapp.com/75f3761/screen/35453952)
+[Mobile Prototype](https://marvelapp.com/75f3761/screen/35453952)
 
 
 ### A-S 390 Advanced Web Production
