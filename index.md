@@ -15,10 +15,10 @@ title: University of Kentucky Art - Web Design - Selected Documentation
 + [Website](https://ethanfedele.github.io/kylafinal/index.html) [Desktop Prototype](https://marvelapp.com/2e3298e/screen/35123360)
 [Mobile Prototype](https://marvelapp.com/11h5bb96/screen/35453483)
 
-+ [Desktop Prototype](https://marvelapp.com/aj4f8j9)
++ [Website](https://tkrause913.github.io/kyla-website/index.html) [Desktop Prototype](https://marvelapp.com/aj4f8j9)
 [Mobile Prototype](https://marvelapp.com/7633d27)
 
-+ [Desktop Prototype](https://marvelapp.com/5967ii8/screen/35454945)
++ [Website](https://brookelawson.github.io/KYLA/index.html) [Desktop Prototype](https://marvelapp.com/5967ii8/screen/35454945)
 [Mobile Prototype](https://marvelapp.com/5967ii8/screen/35483812)
 
 + [Mobile Prototype](https://marvelapp.com/282f61a/screen/35455449)
@@ -39,9 +39,9 @@ https://sofiaey.github.io/KYLA-Website/index.html
 
 https://nsorms.github.io/KYLA-redesign/
 
-https://tkrause913.github.io/kyla-website/index.html
 
-https://brookelawson.github.io/KYLA/index.html
+
+
 
 https://camo228.github.io/kyla_site/index.html
 
