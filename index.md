@@ -6,7 +6,7 @@ title: University of Kentucky Art - Web Design - Selected Documentation
 ### A-S 345 Intro to Web Production
 
 #### Final Project
-+ [Desktop Prototype](https://marvelapp.com/75h985a/screen/35481289)
++ [Website](https://wastinnett.github.io/ky-lawyers-for-arts/index.html) [Desktop Prototype](https://marvelapp.com/75h985a/screen/35481289)
 [Mobile Prototype](https://marvelapp.com/47a951d/screen/35480581)
 
 + [Website](https://garrettfahrbach.github.io/KYLA_desktop/index.html) [Desktop Prototype](https://marvelapp.com/2e31ihc/screen/35122977)
@@ -21,35 +21,18 @@ title: University of Kentucky Art - Web Design - Selected Documentation
 + [Website](https://brookelawson.github.io/KYLA/index.html) [Desktop Prototype](https://marvelapp.com/5967ii8/screen/35454945)
 [Mobile Prototype](https://marvelapp.com/5967ii8/screen/35483812)
 
-+ [Mobile Prototype](https://marvelapp.com/282f61a/screen/35455449)
++ [Website](https://nsorms.github.io/KYLA-redesign/) [Mobile Prototype](https://marvelapp.com/282f61a/screen/35455449)
 
 + [Website](https://yushimichelle.github.io/ky-lawyers/) [Desktop Prototype](https://marvelapp.com/af1b8ce/screen/34886496)
 [Mobile Prototype](https://marvelapp.com/460hg91/screen/34901770)
 
-+ [Desktop Prototype](https://marvelapp.com/582314i)
++ [Website](https://wastinnett.github.io/ky-lawyers-for-arts/index.html) [Desktop Prototype](https://marvelapp.com/582314i)
 [Mobile Prototype](https://marvelapp.com/28bejhg)
 
 + [Website](https://cheyennevieau.github.io/finalwebsite/index.html) [Desktop Prototype](https://marvelapp.com/aicfg8e)
 [Mobile Prototype](https://marvelapp.com/75f3761/screen/35453952)
 
-
-https://sofiaey.github.io/KYLA-Website/index.html
-
-
-
-https://nsorms.github.io/KYLA-redesign/
-
-
-
-
-
-https://camo228.github.io/kyla_site/index.html
-
-
-
-https://wastinnett.github.io/ky-lawyers-for-arts/index.html
-
-
++ [Website](https://sofiaey.github.io/KYLA-Website/index.html)
 
 
 ### A-S 390 Advanced Web Production
